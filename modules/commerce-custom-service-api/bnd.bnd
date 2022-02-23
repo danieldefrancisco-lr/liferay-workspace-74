@@ -1,0 +1,4 @@
+Bundle-Name: commerce-custom-service-api
+Bundle-SymbolicName: commerce.custom.service.api
+Bundle-Version: 1.0.0
+Export-Package: commerce.custom.service.api

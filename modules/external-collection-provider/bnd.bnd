@@ -1,0 +1,4 @@
+Bundle-Name: external-collection-provider
+Bundle-SymbolicName: external.collection.provider
+Bundle-Version: 1.0.0
+Export-Package: external.collection.provider.api

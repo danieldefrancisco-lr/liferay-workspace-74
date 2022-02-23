@@ -1,0 +1,16 @@
+{
+	"config": {
+		"imports": {
+			"dynamic-data-mapping-form-field-type": {
+				"/": "*"
+			},
+			"frontend-taglib-clay": {
+				"clay-button": "*",
+				"clay-icon": "*"
+			}
+		}
+	},
+
+	"preset": "@liferay/npm-bundler-preset-liferay-dev",
+	"output": "build/resources/main/META-INF/resources"
+}

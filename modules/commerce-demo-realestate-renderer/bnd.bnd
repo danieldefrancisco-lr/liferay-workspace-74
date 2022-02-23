@@ -1,0 +1,4 @@
+Bundle-Name: commerce-demo-realestate-renderer
+Bundle-SymbolicName: commerce.demo.realestate.renderer
+Bundle-Version: 1.0.0
+Web-ContextPath: /commerce-demo-realestate-renderer

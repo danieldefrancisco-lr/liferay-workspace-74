@@ -1,0 +1,5 @@
+Bundle-Name: commerce-product-images-web
+Bundle-SymbolicName: commerce.product.images.web
+Bundle-Version: 1.0.0
+Export-Package: commerce.product.images.web.constants
+Web-ContextPath: /commerce-product-images-web

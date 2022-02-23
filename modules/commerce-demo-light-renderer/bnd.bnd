@@ -1,0 +1,5 @@
+Bundle-Name: commerce-demo-light-renderer
+Bundle-SymbolicName: commerce.demo.light.renderer
+Bundle-Version: 1.0.0
+Web-ContextPath: /light-product-renderer
+-metatype: *

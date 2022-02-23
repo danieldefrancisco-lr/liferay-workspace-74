@@ -1,0 +1,5 @@
+Bundle-Name: account-form-field
+Bundle-SymbolicName: com.liferay.dynamic.data.mapping.form.field.type.internal.accountdata.field
+Bundle-Version: 1.0.0
+Export-Package: account.form.field.api
+Web-ContextPath: /dynamic-data-accountdata-field-form-field

@@ -1,0 +1,4 @@
+Bundle-Name: commerce-demo-informational-renderer
+Bundle-SymbolicName: commerce.demo.informational.renderer
+Bundle-Version: 1.0.0
+Web-ContextPath: /commerce-demo-informational-renderer

@@ -1,0 +1,4 @@
+Bundle-Name: commerce-demo-wishlist-datasource
+Bundle-SymbolicName: commerce.demo.wishlist.datasource
+Bundle-Version: 1.0.0
+Export-Package: commerce.demo.wishlist.datasource.api
