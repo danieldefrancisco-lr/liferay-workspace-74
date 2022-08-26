@@ -9,7 +9,6 @@
 
 This module provides a custom form field that uses data from selected account to use it as a predefined value, so that the field will be automatically autofillled but the user still an change the data if they want. This field only will fill out the data if an account is selected.
 
-![See in page][page-img]
 
 The Account-data-field admits:
 
@@ -18,7 +17,6 @@ The Account-data-field admits:
  * Add Tooltip
  * Validation
 
-![Configuration][config-img]
 
 ## Built With
 
